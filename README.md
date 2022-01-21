@@ -33,7 +33,7 @@ Para poder adquirir el servicio de la pasarela de pago necesitas lo siguiente:
 ### 💰 ¿Cual es el costo?
 A continuación te desglosamos los costos que tiene esta pasarela para que te informes antes de adquirir el servicio.
 - Pago por afiliación nueva <strong>$25.00 (Pago único)</strong>
-- Integración a la pasarela <strong>FAC $200.00 (Pago único)</strong>
+- Integración a la pasarela FAC <strong>$200.00 (Pago único)</strong>
 - Mensualidad del servicio <strong>$50.00</strong>
 - Tasa de comisión del <strong>5.00%</strong> en cada cobro 
 - <strong>$0.20</strong> centavos por cada transacción por pasar por un protocolo de seguridad 3D Secure
