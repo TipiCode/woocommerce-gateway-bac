@@ -92,7 +92,7 @@ Una vez instalado debes dirigirte al area de <strong>Woocommerce / Ajustes / Pag
 - Master Card / <strong>5111111111111111</strong> / Cualquier Fecha de expiración y cualquier CVV.
 - American Express / <strong>341111111111111</strong> / Cualquier Fecha de expiración y cualquier CVV.
 
-[Aquí](https://firstatlanticcommerce.com/) podrás encontrar todas las tarjetas de prueba disponibles con sus diferentes códigos de respuesta. 
+[Aquí](https://firstatlanticcommerce.com/wp-content/uploads/2020/07/FACPG2-Test-Card-Information.pdf) podrás encontrar todas las tarjetas de prueba disponibles con sus diferentes códigos de respuesta. 
 
 Una vez realizadas las pruebas comunicate con tu asesor para que inicien la revisión y te puedan brindar tus credenciales de producción.
 
