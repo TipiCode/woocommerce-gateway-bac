@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name: FAC Payment Gateway WooCommerce
- * Plugin URI:
+ * Plugin URI: https://github.com/TipiCode/woocommerce-gateway-bac/edit/main/fac-payment-gateway.php
  * Description: FAC Payment gateway extension for WooCommerce.
  * Version:     1.0.0
- * Author:      TipiCode
- * Author URI:
+ * Author:      tipi(code)
+ * Author URI: https://codingtipi.com
  * License:     MIT
  * Requires PHP: 8.0
  * WC requires at least: 5.8.0
- * WC tested up to: 5.8.0
+ * WC tested up to: 6.1.0
  *
  * @package FACGateway
 */
