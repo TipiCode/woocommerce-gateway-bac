@@ -14,7 +14,7 @@ Plugin para [Woocommerce](https://woocommerce.com/) que habilita la pasarela de 
 Te compartimos cuáles son los primeros pasos para poder adquirir el servicio por parte del [BAC](https://www.baccredomatic.com/es-gt)
 
 ### 💬 Aclaraciones
-El [BAC](https://www.baccredomatic.com/es-gt) trabaja con un proveedor que les brinda la pasarela de pago llamado [First Atlantic Commerce](https://firstatlanticcommerce.com/) ten en cuenta esto ya que al momento de estar en el proceso de implementación el personal de [First Atlantic Commerce](https://firstatlanticcommerce.com/) será el encargado de verificar la instalación y dar el visto bueno al personal del BAC. Este plugin utiliza la modalidad Hosted Page quiere decir que redirecciona a los servidores de [First Atlantic Commerce](https://firstatlanticcommerce.com/) para realizar el cobro.
+El [BAC](https://www.baccredomatic.com/es-gt) trabaja con un proveedor que les brinda la pasarela de pago llamado [First Atlantic Commerce](https://firstatlanticcommerce.com/) ten en cuenta esto ya que al momento de estar en el proceso de implementación el personal de [First Atlantic Commerce](https://firstatlanticcommerce.com/) será el encargado de verificar la instalación y dar el visto bueno al personal del BAC. Este plugin utiliza la modalidad <strong>Hosted Page</strong> quiere decir que redirecciona a los servidores de [First Atlantic Commerce](https://firstatlanticcommerce.com/) para realizar el cobro.
 <h1 align="center">
   <img src="https://skyloft.sfo3.cdn.digitaloceanspaces.com/Repos/first-atlantic.png" alt="First Atlantic">
 </h1>
@@ -50,7 +50,7 @@ Una vez te brinden el acceso a tú portal, ingresa al mismo desde el siguiente l
 - [Test](https://ecm.firstatlanticcommerce.com/SENTRY/PaymentGateway/Merchant/Administration/WFrmLogin.aspx)
 - [Producción](https://marlin.firstatlanticcommerce.com/SENTRY/PaymentGateway/Merchant/Administration/WFrmLogin.aspx)
 
-** Recuerda que este plugin utiliza la modalidad de Hosted Checkout para operar, dentro del portal puedes customizar la apariencia de este sitio de cobro con HTML y CSS.
+** Recuerda que este plugin utiliza la modalidad de <strong>Hosted Checkout</strong> para operar, dentro del portal puedes customizar la apariencia de este sitio de cobro con HTML y CSS.
 
 Una vez estés dentro del portal de [First Atlantic Commerce](https://firstatlanticcommerce.com/) debes ir a la opción de <strong>Administration / Profile / Hosted Payment Pages</strong> dentro de esta pagina podras crear páginas, editar, borrar y publicar paginas para recibir cobros.
 
