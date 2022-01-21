@@ -91,6 +91,7 @@ Una vez instalado debes dirigirte al area de <strong>Woocommerce / Ajustes / Pag
 - Visa / <strong>4111111111111111</strong> / Cualquier Fecha de expiración y cualquier CVV.
 - Master Card / <strong>5111111111111111</strong> / Cualquier Fecha de expiración y cualquier CVV.
 - American Express / <strong>341111111111111</strong> / Cualquier Fecha de expiración y cualquier CVV.
+
 [Aquí](https://firstatlanticcommerce.com/) podrás encontrar todas las tarjetas de prueba disponibles con sus diferentes códigos de respuesta. 
 
 Una vez realizadas las pruebas comunicate con tu asesor para que inicien la revisión y te puedan brindar tus credenciales de producción.
