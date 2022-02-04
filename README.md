@@ -6,7 +6,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/TipiCode/woocommerce-gateway-bac.svg)](https://github.com/TipiCode/woocommerce-gateway-bac/releases)
 [![Github all releases](https://img.shields.io/github/downloads/TipiCode/woocommerce-gateway-bac/total.svg)](https://GitHub.com/TipiCode/woocommerce-gateway-bac/releases/)
 [![Generic badge](https://img.shields.io/badge/Woocommerce-6.1.0-96588a.svg)](https://woocommerce.com/)
-[![Generic badge](https://img.shields.io/badge/Wordpress-5.8.0-21759b.svg)](https://wordpress.com/)
+[![Generic badge](https://img.shields.io/badge/Wordpress-5.9.0-21759b.svg)](https://wordpress.com/)
 
 Plugin para [Woocommerce](https://woocommerce.com/) que habilita la pasarela de pago de [BAC](https://www.baccredomatic.com/es-gt) como método de pago en el checkout de tú sitio web, implementar una pasarela de pago para realizar cobros en linea no tiene porque ser ciencia espacial.
 

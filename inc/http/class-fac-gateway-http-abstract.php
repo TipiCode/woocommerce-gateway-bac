@@ -66,7 +66,7 @@ abstract class FAC_Gateway_Http_Abstract {
 	 * @return array|null
 	 * @throws Exception Exception.
 	 */
-	public function create_order( $requestArr,) {
+	public function create_order( $requestArr ) {
 		$this->order_status = include dirname(__FILE__) . '/../order-status-fac.php';
 		$log['path'] = __METHOD__;
 		try {
