@@ -76,7 +76,7 @@ Una vez instalado debes dirigirte al area de <strong>Woocommerce / Ajustes / Pag
 - <strong>Activar/Desactivar :</strong> Con esta opción puede rápidamente habilitar o deshabilitar la pasarela de pago sin desinstalar el plugin.
 - <strong>Título :</strong> Nombre que se le mostrará al usuario al seleccionar la opción de pago.
 - <strong>Descripción :</strong> Descripcion adicional que se le mostrara al usuario al seleccionar la opción de pago.
-- <strong>Status of new order :</strong> Estado el cual [Woocommerce](https://woocommerce.com/) colocará cuando una orden es creada, este estado cambia a Completed cuando el checkout de recurrente regresa Success.
+- <strong>Status of new order :</strong> Estado el cual [Woocommerce](https://woocommerce.com/) colocará cuando una orden es creada, este estado cambia a Completed cuando el checkout de FAC regresa Success.
 - <strong>FacId : </strong> Id brindado por [BAC](https://www.baccredomatic.com/es-gt).
 - <strong>Contraseña : </strong> Contraseña brindada por [BAC](https://www.baccredomatic.com/es-gt).
 - <strong>AcquirerId : </strong> Id brindado por [BAC](https://www.baccredomatic.com/es-gt).
